@@ -14,14 +14,6 @@ Fitness Tracking application built for Android with Google Fit API using Kotlin 
 - MVVM architecture
 - MPAndroidChart library
 
-## Pre-requisites
-Register a Google Project with an Android client per getting started instructions [http://developers.google.com/fit/android/get-started](http://developers.google.com/fit/android/get-started)
-
-## Getting Started
-- Clone the repository.
-- Open the project in Android Studio.
-- Build and run the application on your device or emulator.
-
 ## Screenshots
 <div align="center"> 
   
@@ -29,5 +21,8 @@ Register a Google Project with an Android client per getting started instruction
 
 </div>
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/AtilMohAmine/Fitness-Tracker/blob/main/Licence) file for more information.
+<div align="center"> 
+
+![fitness-tracker](https://github.com/Imen-ks/Fitness/blob/main/Fitness/Assets.xcassets/Fitness.png)
+
+</div>
